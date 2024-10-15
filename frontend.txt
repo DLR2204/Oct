@@ -1,0 +1,185 @@
+on -1  off -0  		coding standards(ASCII,UNICODE)			
+
+								computer lang
+
+
+					scripting lang			programming lang
+					
+	s.l :- designing of websites
+	
+			html,css,bootstrap,js,ts......
+	
+	p.l :- developing the softwares 
+			java,c,.net.........
+			
+			
+			
+			
+		website:- It collection of webpages
+	
+				(1)Static webpages :-The changes will not happens regulary
+				
+				(2)Dynamic webpages :-The changes will happens regulary
+				
+									(1)user
+									
+									(2)time
+									
+									(3)location....
+				
+				(3)Server webpages :-to store the data from  static nd dynamic webpages.
+				
+				
+				
+	HTML:-Hyper Text Markup lang
+	
+			
+			<tags>
+			
+			
+			(1)Container tags/pair tags :- <tag></tag>
+			
+			(2)Empty tags/single tags :- <tag> or </tag> or <tag/>
+
+
+	<html> <head>  <body>
+	
+	
+	<h1  class="value">  Content  </h1>    -------------->Elements
+	
+	
+	List :- <li></li>
+	====
+	Unordered List(Bullets):- <ul></ul>
+	
+	Ordered List(Numberings):-<ol></ol>
+	
+	
+	
+	table:-
+	======
+	
+	<tr></tr>  ---rows
+	
+	
+	<td></td> ---colums
+	
+	
+	<table></table> -table
+	
+	
+	
+	
+	(1)Block elements
+	
+	(2)Inline elements
+	
+	
+	
+									css:-<style></sytle>
+									===
+									
+									
+			(1)Inline Styling:-using style att inside the opening tag 
+			
+			(2)Internl Styling:-using <style> inside the head tag
+			
+			(3)External Styling:-attachig .css file to the .html file using link tag
+		
+		
+		colors:-
+		
+		(1)color name     :- red,green,....
+		
+		(2)hexadecimal (0-f):-#983454
+		
+		(3)rgb()		:-rgb(r,g,b)[0-255]
+		
+		(4)rgb with alpha():-rgb(r,g,b,a)[0-1]
+		
+		(5)hsl()			:-hsl(color,satura,lumi)[0-360][0-100%]
+		
+		(6)hsl with alpha() :-hsl(color,sat,lum,al)
+		
+		
+		
+		Selectors:-
+		
+		(1)Tag name     :- h1,p.....
+		
+		(2)Id name(#)   :-#idname
+		
+		(3)class name(.) :-.classname
+		
+		(4)universal (*) :-*
+		
+		
+		
+									javascript:-
+									-----------
+			(1)To design dynamic app's.
+			
+			(2)Change the Html content
+			
+			(3)change the html attributes
+			
+			(4)change the css
+			
+			(5)hide the data
+			
+			
+			(1)Internal  :- insert <script> inside head/body
+			
+			(2)External  :- attaching .js file to the html file
+			
+			
+			outputs functions in js:-
+			
+			(1)innerHTML 
+			
+			(2)document.write()
+			
+			(3)window.alert()
+			
+			(4)console.log()
+			
+			
+			
+			
+			variable :-
+			--------
+			
+				SYNTAX:-		var variablename; ------>declaration of a variable
+				
+								var variablename = value; ---->initiallization of a variable
+			
+			
+			datatypes:-
+			---------
+			
+						number,string,object ,boolean,undefined..
+				
+			
+			
+			functions:- set of statements where altogether perform the task.
+			
+			
+			syntax:-
+						function funName(params..){
+						//body
+						}
+						
+						
+			control statements:-
+			-------------------
+			
+					(1)conditional statements :- if,if-else,switch......
+					
+					(2)Iterative statements:-while,do-while,for....
+					
+					
+		Bootstrap:- 
+		
+				(1)cdn (content delivery network)
+				
+				(2)downloading bootstrap
