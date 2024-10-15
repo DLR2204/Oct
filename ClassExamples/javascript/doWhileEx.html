@@ -1,0 +1,30 @@
+<html>
+<head><title>Do-WhileLoop</title></head>
+<script>
+
+function loop(){
+var i=20; res =" ";
+
+do{
+
+	res=res+i+" ";
+	i=i+1;	
+
+
+}while(i>40);
+
+
+
+
+document.getElementById("res").innerHTML=res;
+console.log(res);
+}
+
+
+</script>
+<body>
+<h1 id="res"></h1>
+
+<button type="button" onclick="loop()">check</button>
+</body>
+</html>
