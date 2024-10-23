@@ -183,3 +183,40 @@ on -1  off -0  		coding standards(ASCII,UNICODE)
 				(1)cdn (content delivery network)
 				
 				(2)downloading bootstrap
+				
+				
+			Grid System:-
+						webpage :- 12 columns - 4
+						
+						
+						class :-Container
+								col,row,col-sm,col-md,col-lg
+						
+			
+			(1)<nav>
+			(2)navbar,nav
+			
+			
+									React:-
+									======
+			(facebook)react-->js lib
+			
+			Node ------->npm(node packaging manager)
+			
+			components:-
+			-----------
+			
+			(1)Stateless functional components[js function file]
+			
+			(2)Statefull Class component [js class file]
+			
+			
+			props:-properties
+			
+			w.r.t component :- function parameters 
+			
+			w.r.t App.js  :- html attributes
+			
+			
+			state :- It's a local variable for the component.
+			
